@@ -1,7 +1,7 @@
 # brainBox
 ## a suggestion box for brainy ideas
 
-![brainBox-diagram](https://raw.githubusercontent.com/NDCLab/brainBox/brainBox-diagram.png)
+![brainBox-diagram](https://github.com/NDCLab/brainBox/blob/main/brainBox-diagram.png)
 
 ### Overview
 * You start with a seedling :seedling: of an idea (a coffee seedling, because good research requires good fuel!).
