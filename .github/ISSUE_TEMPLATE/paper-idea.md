@@ -1,7 +1,7 @@
 ---
 name: paper-idea
 about: Introduce a new idea for a paper to the lab.
-title: paper-shortname-for-idea
+title: paper-[shortname-for-idea]
 labels: ''
 assignees: ''
 
