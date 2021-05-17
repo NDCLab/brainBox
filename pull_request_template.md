@@ -18,6 +18,8 @@ Use this template for paper ideas:
 
 **Design:** [a brief summary of your current vision for the basic design]
 
+**Funding:** [describe your plan for short-term and long-term funding]
+
 **Authors:** [who will be first author? who else will be a named author?]
 
 **Milestones:** [describe three key milestones in the project and approximate timelines, for instance: a conference poster, a lab presentation, etc.]
