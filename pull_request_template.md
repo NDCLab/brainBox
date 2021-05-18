@@ -34,6 +34,8 @@ Use this template for tool ideas:
 
 **Design:** [a brief summary of your current vision for the basic design]
 
+**Funding:** [describe your plan for short-term and long-term funding, if applicable]
+
 **Authors:** [who will be project lead? who else will be a key collaborator?]
 
 **Milestones:** [describe three key milestones in the project and approximate timelines, for instance: a conference poster, a lab presentation, etc.]

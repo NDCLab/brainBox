@@ -19,5 +19,6 @@ assignees: ''
 **Problem:** [what is the problem you are trying to solve with this tool?]
 **Alternatives:** [what similar tools already exist? why do they fall short?]
 **Design:** [a brief summary of your current vision for the basic design]
+**Funding:** [describe your plan for short-term and long-term funding. Note: funding is not necessarily required for tool development.]
 **Authors:** [who will be project lead? who else will be a key collaborator? Note: this is just a working plan and can change.]
 **Milestones:** [describe three key milestones in the project and approximate timelines, for instance: a conference poster, a lab presentation, etc.]
