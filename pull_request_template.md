@@ -12,9 +12,11 @@ Use this template for paper ideas:
 
 **Question:** [what is the question you are trying to answer with this paper?]
 
-**Hypothesis:** [what is your working hypothesis?]
+**Summary:** [simple summary in non-technical language introducing the background, design, and goals for the paper (150 words max)]
 
 **Lit Review:** [which papers are key to your thinking, what else needs to be researched?]
+
+**Hypothesis:** [what is your working hypothesis?]
 
 **Design:** [a brief summary of your current vision for the basic design]
 
