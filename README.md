@@ -12,7 +12,7 @@
 
 ### How-To
 1. Use one of the issue templates available in this repo (there is one for papers and one for code/tools/instruments) to open a new issue. Take your time in formalizing your thoughts. While you work on the issue, it will live in the "Budding" pipeline on the brainBox ZenHub workflow.
-2. If you need or want to store specific files with your idea (such as diagrams), create a directory within the brainBox repo. Name it: [project shortname]-[your name]. For example: "choco-factory-charlie". The project shortname that you use for the GitHub issue and the shortname you use for a directory within the repo should be identical.
+2. If you need or want to store specific files with your idea (such as diagrams), create a new branch within the brainBox repo. Name it: `[project shortname]-[your name]`. For example: `choco-factory-charlie`. Add the new directory under the `brainy-ideas` directory. The project shortname that you use for the GitHub issue, the shortname that you use for the new branch, and the shortname that you use for the directory within the repo should be identical.
 3. When you are ready, move the issue into the "Roasting" pipeline; open your idea up for group discussion by tagging the lab.
 4. Watch and respond to the questions that come in. Feel free to remind certain individuals to comment with their thoughts (by tagging them individually) if you feel they would have particularly valuable expertise to hone your idea.
 5. As your idea takes full shape, move the issue into the "Brewing" pipeline. Craft a clear pitch for the PI's approval.
