@@ -14,7 +14,10 @@ This research idea dives into these questions by exploring speed and articulatio
 
 Emotion has moderator effects on cognition and behavior, with processing advantages often seen for valenced (positive/negative) words presented visually relative to neutral and, once stimuli are corrected for unprimed response times, improved processing for positive over negative targets.  Additional effects have been seen for positive stimuli with N400 amplitudes and strategies used for memorization.  Some highlights of the lit review include:
 
-- slower processing of negative stimuli (versus positive) as seen by slower response times on negative target words in lexical decision tasks with stimuli that have been matched for response time on unprimed lexical decision tasks (Kazanas and Altarriba (2015a, 2015b))
+- slower processing of negative stimuli (versus positive) as seen by:
+    - slower response times on negative target words in lexical decision tasks when a consistent measure is used to rate valence (Estes and Adelman (2008))
+    - slower response times on negative target words in lexical decision tasks when valence x frequency effects are corrected for in post-hoc analyses (Kuperman et al. (2014))
+    - slower response times on negative target words in lexical decision tasks with stimuli that have been matched for response time on unprimed lexical decision tasks (Kazanas and Altarriba (2015a, 2015b))
 - positive primes in lexical decision tasks ostensibly cause spreading activation in the semantic network, thereby shortening response time for related target words but slowing response for unrelated target words; negative primes seem to cause an emotional reaction inhibition that precludes any change in response time for related/unrelated targets but enables faster processing for unrelated targets than a positive prime, with its larger network activation (Sass et al. (2012))
 - N400 amplitudes are believed to index the activation of semantic knowledge structures, with larger N400 amplitudes for mood-incongruent words (Chung et al. (1996) as mentioned in Kiefer et al. (2007))
 - smaller N400 amplitudes for pleasant v. unpleasant adjectives in silent reading, which may indicate that pleasant words are semantically-integrated more easily, possibly as a result of congruency with default, mildly positive mood states (Herbert et al. (2008))
@@ -84,13 +87,11 @@ Prior to the experimental task, participants complete several questionnaires:
 - Affective Reactivity Index (ARI)
 - Interpersonal Reactivity Index (IRI)
 
-After completion of the questionnaires, participants are prompted to speak briefly (~1 minute) on any topic; this brief narrative is recorded.  Ostensibly, the purpose of this is to test and calibrate the online recording system.  For the initial analyses, this brief narrative does not serve any specific purpose; however, future analyses may be able to correlate qualities of the narrative with the BMIS measurement.
-
-The main study task involves the reading aloud of 21 short texts (~200 words each) that are designed to evoke a certain mood state in the reader (positive/negative) at the start of the passage, but include a single valence "switch point" where the mood of the text suddenly reverses. (Examples: [pos>neg passage](https://github.com/NDCLab/brainBox/blob/rwe-valence-jess/brainy-ideas/rwe-valence-jess/stimuli/pos-neg_dolphins.txt) and [neg>pos passage](https://github.com/NDCLab/brainBox/blob/rwe-valence-jess/brainy-ideas/rwe-valence-jess/stimuli/neg_pos_dolphins.txt).)  Seven blocks of texts, with each block including three texts, are presented back-to-back in such a way that "switch points" are passage-internal (not between passages) and the total amount of "positive" text is equal to the total amount of "negative" text.  Participants are instructed to read the texts aloud at a comfortable speed, articulating clearly and naturally as if they were rehearsing for a documentary voiceover.  Between each block, a "break" is provided during which the participant is prompted to speak on any topic (similar to the initially recorded narrative) and in keeping with the ecological validity of the study: people typically "chat" when they take breaks between regular life tasks.  The primary functions of these breaks are to give the participant a rest period from the tasking activity of reading aloud and to put the participant back in control of their own mood state before the next block.  A secondary function, if future analyses are able to correlate narrative qualities with the initial BMIS measurement, is to offer the possibility of identifying more dynamic changes in mood during the reading aloud task.
+After completion of the questionnaires, participants continue to the main study task, which involves the reading aloud of 21 short texts (~200 words each) that are designed to evoke a certain mood state in the reader (positive/negative) at the start of the passage, but include a single valence "switch point" where the mood of the text suddenly reverses. (Examples: pos>neg passage (stimuli/pos-neg_dolphins.txt) and neg>pos passage (stimuli/neg-pos_dolphins.txt).)  After an initial, short, practice text (that does not contain a valence shift), seven blocks of texts, with each block including three texts, are presented back-to-back in such a way that "switch points" are passage-internal (not between passages) and the total amount of "positive" text is roughly equal to the total amount of "negative" text.  Participants are instructed to read the texts aloud at a comfortable speed, articulating clearly and naturally as if they were rehearsing for a documentary voiceover.  Between each block, a two-minute break is provided with the instruction to "Please use this time to get a drink, stretch, or walk around" (borrowed from Balota et al. (2008)), during which time a countdown timer is shown on screen to inform the participant of how much time remains in the break.
 
 After all seven blocks of the reading aloud task are complete, the participant is prompted to share their overall impression of the activity (~1 minute), which is recorded.  They then re-complete the BMIS.
 
-Following completion of the reading aloud task, the participant will undertake a lexical decision task.
+Following completion of the reading aloud task, the participant undertakes a lexical decision task.  This is a replication of the method and stimuli described in Kousta et al. (2009) (also replicated in by Yap and Seow (2013)).
 
 I believe that, with careful setup, this study could be completely asynchronous as [PsychoJS now supports microphone input](https://www.psychopy.org/changelog.html).
 
@@ -136,3 +137,14 @@ Because each participant will only see 21 switches, a sufficient number of parti
 _Publication_
 
 This paper would share the results of analyses 1A, 1B, and 2.  The goal is to have it submitted by early fall 2022.
+
+_LDT Replication Analysis_
+
+The data would be analyzed five ways:
+1. using the valence ratings from ANEW
+2. using the valence ratings from extended ANEW (same as Kousta et al. (2009), if available)
+3. using the valence ratings from extended ANEW but correcting for valence x frequency interactions (similar to Kuperman et al. (2014), if available)
+4. using the valence ratings from Warriner et al. (2013)
+5. using the valence ratings from the Glasgow Norms.
+
+Posters/publication to be determined.
