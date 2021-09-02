@@ -141,11 +141,17 @@ This paper would share the results of analyses 1A, 1B, and 2.  The goal is to ha
 
 _LDT Replication Analysis_
 
-The data would be analyzed five ways:
+The data can be analyzed five ways:
 1. using the valence ratings from ANEW
 2. using the valence ratings from extended ANEW (same as Kousta et al. (2009), if available)
 3. using the valence ratings from extended ANEW but correcting for valence x frequency interactions (similar to Kuperman et al. (2014), if available)
 4. using the valence ratings from Warriner et al. (2013)
-5. using the valence ratings from the Glasgow Norms.
+5. using the valence ratings from the Glasgow Norms
 
 Posters/publication to be determined.
+
+**Potential Future Extensions:**
+
+* Participant performance on the valenced passages could be re-analyzed using miscue analysis.
+* Balota et al. (2007) had participants code their own responses for speeded naming.  This could be an interesting follow-up with a subset of participants who listen to their own recordings and code themselves (e.g., misspoke, didn't know how to pronounce the word, etc.), for comparison against the objective, third-party coding.
+* If analyses 1A/B or 2 show interesting behavioral results, the study could be extended to include EEG analyses.
