@@ -17,7 +17,7 @@ Emotion has moderator effects on cognition and behavior, with processing advanta
 - slower processing of negative stimuli (versus positive) as seen by:
     - slower response times on negative target words in lexical decision tasks when a consistent measure is used to rate valence (Estes and Adelman (2008))
     - slower response times on negative target words in lexical decision tasks when valence x frequency effects are corrected for in post-hoc analyses (Kuperman et al. (2014))
-    - slower response times on negative target words in lexical decision tasks with stimuli that have been matched for response time on unprimed lexical decision tasks (Kazanas and Altarriba (2015a, 2015b))
+    - slower response times on negative target words in primed lexical decision tasks with stimuli that have been matched for response time on unprimed lexical decision tasks (Kazanas and Altarriba (2015a, 2015b))
 - positive primes in lexical decision tasks ostensibly cause spreading activation in the semantic network, thereby shortening response time for related target words but slowing response for unrelated target words; negative primes seem to cause an emotional reaction inhibition that precludes any change in response time for related/unrelated targets but enables faster processing for unrelated targets than a positive prime, with its larger network activation (Sass et al. (2012))
 - N400 amplitudes are believed to index the activation of semantic knowledge structures, with larger N400 amplitudes for mood-incongruent words (Chung et al. (1996) as mentioned in Kiefer et al. (2007))
 - smaller N400 amplitudes for pleasant v. unpleasant adjectives in silent reading, which may indicate that pleasant words are semantically-integrated more easily, possibly as a result of congruency with default, mildly positive mood states (Herbert et al. (2008))
@@ -28,7 +28,7 @@ Emotion has moderator effects on cognition and behavior, with processing advanta
 
 _Prediction 1A_
 
-When sublexical characteristics are held constant in a primed reading paradigm, individuals appear to process positive words faster than negative.  As a result, this positivity bias -- which is ostensibly caused by the larger network activation of positive words -- would impact reading speed and error rate in valenced passages, with faster reading speeds and fewer errors in positive passages than negative passages.  However, the real world does not hold sublexical characteristics constant and unprimed lexical decision tasks do not find a significant difference between positive and negative stimuli, only a bias toward emotional stimuli relative to nonemotional stimuli in accordance with the model of motivated attention, which posits that emotion-evoking stimuli capture and retain attention better than neutral stimuli.  Therefore, performance may not differ when reading positive and negative passages, provided that the passages are matched on non-neutrality.
+When sublexical characteristics are held constant in a primed reading paradigm, individuals appear to process positive words faster than negative.  As a result, this positivity bias -- which is ostensibly caused by the larger network activation of positive words -- would impact reading speed and error rate in valenced passages, with faster reading speeds and fewer errors in positive passages than negative passages.  Likewise, when word frequency, and more particularly valence/frequency interactions are taken into account, valence is found to have a monotonic effect on lexical decision and speeded naming response times, with the fastest responses for positive words, followed by neutral words, and finally with the slowest responses for negative words.  However, these valence effects may not be strong enough to impact reading performance in the real world, where myriad other factors exert pressures.  Therefore, performance may not differ when reading positive and negative passages, provided that the passages are matched on non-neutrality.
 * **A**: no difference in reading speed/disfluency between positive and negative passages
 * **B**: positivity bias: faster speeds and fewer disfluencies on positive passages relative to negative
 
@@ -78,7 +78,6 @@ Sass et al. (2012) found an interesting pattern in valence priming: positive wor
 
 Prior to the experimental task, participants complete several questionnaires:
 - Demographic questionnaire
-- Assessment of reading skill (TBD)
 - Brief Mood Introspection Scale (BMIS)
 - Emotion Regulation Questionnaire (ERQ)
 - Interpersonal Emotion Regulation Questionnaire (IERQ)
@@ -91,7 +90,7 @@ After completion of the questionnaires, participants continue to the main study 
 
 After all seven blocks of the reading aloud task are complete, the participant is prompted to share their overall impression of the activity (~1 minute), which is recorded.  They then re-complete the BMIS.
 
-Following completion of the reading aloud task, the participant undertakes a lexical decision task.  This is a replication of the method and stimuli described in Kousta et al. (2009) (also replicated in by Yap and Seow (2013)).  As described in Kousta et al. (2009):
+Following completion of the reading aloud task, the participant undertakes a lexical decision task involving negative, neutral, and positive words, along with distractor non-words.  The participant is instructed to determine whether each word displayed is or is not a real word, and to do so as quickly and accurately as possible.  This is a replication of the method and stimuli described in Kousta et al. (2009) (also replicated in by Yap and Seow (2013)).  As described in Kousta et al. (2009):
 > Each trial began with a fixation cross presented at the middle of the screen for 400 ms, followed by the presentation of the string for 2000 ms or until a response was given (whichever was earlier). Participants were instructed to respond as quickly and accurately as possible using the j key on the keyboard (marked green) when the string was a word and the f key (marked red) when the string was not a word. After response or time-out, there was a blank inter-trial interval of 1000 ms. After ten practice items, the 240 words and non-words were presented in a random order. The experimental session lasted approximately 12 min.
 
 I believe that, with careful setup, this study could be completely asynchronous as [PsychoJS now supports microphone input](https://www.psychopy.org/changelog.html).
@@ -101,7 +100,7 @@ I believe that, with careful setup, this study could be completely asynchronous 
 Require guidance on short-term funding. Some longer-term possibilities include:
 
 - NIH R03
-- NIH R21 (for greater RWE)
+- NIH R21
 - NSF CogNeuro
 - NSF PAC (Perception, Action & Cognition)
 
@@ -113,7 +112,7 @@ Jess/George, co-authors TBD
 
 _Piloting_
 
-In order to get to a piloting stage, we will need to: submit the IRB protocol (including recruitment materials, sample stimuli, and informed consent) and receive approval, create the full stimuli set, determine the neutral prompts for the "breaks", code and test the Pavlovia experiment, setup the REDCap project, and draft the experimental protocol.  It is estimated that this could be completed in the second half of the fall semester.
+In order to get to a piloting stage, we will need to: submit the IRB protocol and receive approval, create the full stimuli set, code and test the Pavlovia experiments, setup the REDCap project, and draft the experimental protocol.  It is estimated that this could be completed in the second half of the fall semester 2021.
 
 _Data Coders_
 
@@ -125,7 +124,7 @@ This analysis involves two multiple regression analyses (one for reading speed, 
 
 _Analysis 1B_
 
-This analysis involves a slightly more complex model than 1A.  My explicit prediction only involves the BMIS measurement, but I believe that we will want to explore how scores on emotion regulation and state/trait anxiety measures might impact the model.
+This analysis involves a slightly more complex model than 1A.  My explicit prediction only involves the BMIS measurement, but I believe that we may want to explore how scores on emotion regulation and state/trait anxiety measures might impact the model.
 
 _Poster: Cognitive Science Society_
 
@@ -153,5 +152,5 @@ Posters/publication to be determined.
 **Potential Future Extensions:**
 
 * Participant performance on the valenced passages could be re-analyzed using miscue analysis.
-* Balota et al. (2007) had participants code their own responses for speeded naming.  This could be an interesting follow-up with a subset of participants who listen to their own recordings and code themselves (e.g., misspoke, didn't know how to pronounce the word, etc.), for comparison against the objective, third-party coding.
-* If analyses 1A/B or 2 show interesting behavioral results, the study could be extended to include EEG analyses.
+* Balota et al. (2007) had participants code their own responses for speeded naming.  This could be an interesting follow-up with a subset of participants who listen to their own recordings and code themselves (e.g., I misspoke, I didn't know how to pronounce the word, etc.), for comparison against the objective, third-party coding.
+* If analyses 1A/B or 2 show interesting behavioral results, the study could be extended to include EEG analyses focused on the neural activity around the valence switches.
