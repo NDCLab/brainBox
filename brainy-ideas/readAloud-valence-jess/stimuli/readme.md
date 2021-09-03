@@ -13,7 +13,7 @@ This folder contains the following:
 - a CSV file from the English Lexicon Project with summary characteristics
 
 
-#### Text Passage Characteristics
+### Text Passage Characteristics
 
 | characteristics | resource | notes |
 |:-- | :-- | :-- |
@@ -32,7 +32,7 @@ This folder contains the following:
 |len-syll-neg |manual extraction | Number of syllables in the negative portion of the passage |
 
 
-#### (Sub)Lexical Characteristics: Primary Interest
+### (Sub)Lexical Characteristics: Primary Interest
 
 All characteristics are drawn from the lemma unless otherwise noted.  For characteristics drawn from the English Lexicon Project, the full lexicon was queried.
 
@@ -50,7 +50,7 @@ All characteristics are drawn from the lemma unless otherwise noted.  For charac
 | pos | English Lexicon Project | Part of speech: JJ (adjective), NN (noun), RB (adverb), VB (verb), encl (enclitic), minor (all other parts of speech), ? (unknown). A vertical bar is used to separate alternatives when a given word can be used as multiple parts of speech. |
 | 5-gram-cum-surprisal | kenLM on Gigaword 3? (is FIU a member of the Linguistics Data Consortium?) | TBD: cumulative, linear surprisal predicts reading time very well, must be log transformed (Smith+Levy) |
 
-#### (Sub)Lexical Characteristics: Secondary Interest
+### (Sub)Lexical Characteristics: Secondary Interest
 
 | characteristics | resource | notes |
 |:-- | :-- | :-- |
