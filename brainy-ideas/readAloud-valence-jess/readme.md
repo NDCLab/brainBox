@@ -81,7 +81,7 @@ Prior to the experimental task, participants complete several questionnaires:
 - Brief Mood Introspection Scale (BMIS)
 - Emotion Regulation Questionnaire (ERQ)
 - Interpersonal Emotion Regulation Questionnaire (IERQ)
-- Beck Depression Inventory (BDI-II)
+- Patient Health Questionnaire (PHQ-8)
 - State-Trait Anxiety Inventory (STAI)
 - Affective Reactivity Index (ARI)
 - Interpersonal Reactivity Index (IRI)
