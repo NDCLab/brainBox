@@ -14,17 +14,8 @@ Use this template for paper ideas:
 
 **Summary:** [simple summary in non-technical language introducing the background, design, and goals for the paper (150 words max)]
 
-**Lit Review:** [which papers are key to your thinking, what else needs to be researched?]
+[LINK TO THE README ON YOUR BRANCH]
 
-**Hypothesis:** [what is your working hypothesis?]
-
-**Design:** [a brief summary of your current vision for the basic design]
-
-**Funding:** [describe your plan for short-term and long-term funding]
-
-**Authors:** [who will be first author? who else will be a named author?]
-
-**Milestones:** [describe three key milestones in the project and approximate timelines, for instance: a conference poster, a lab presentation, etc.]
 
 -------
 Use this template for tool ideas:
@@ -32,12 +23,6 @@ Use this template for tool ideas:
 
 **Problem:** [what is the problem you are trying to solve with this tool?]
 
-**Alternatives:** [what similar tools already exist? why do they fall short?]
+**Summary:** [a brief summary of your current vision for the basic design]
 
-**Design:** [a brief summary of your current vision for the basic design]
-
-**Funding:** [describe your plan for short-term and long-term funding, if applicable]
-
-**Authors:** [who will be project lead? who else will be a key collaborator?]
-
-**Milestones:** [describe three key milestones in the project and approximate timelines, for instance: a conference poster, a lab presentation, etc.]
+[LINK TO THE README ON YOUR BRANCH]
