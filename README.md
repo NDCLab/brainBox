@@ -23,7 +23,7 @@
 3. On your branch, within your project subfolder in the `brainy-ideas` directory, create a readme file. Use this file to build out and refine your idea.  This can start as a duplication of the content of your issue. 
 4. When you are ready, move the issue into the "Roasting" pipeline; open your idea up for group discussion by tagging the lab (@labwide) on the issue.
 5. Watch and respond to the questions that come in. Feel free to remind certain individuals to comment with their thoughts (by tagging them individually) if you feel they would have particularly valuable expertise to hone your idea.
-6. As you refine the idea, update the readme in your subdirectory of `brainy-ideas` on your own, speciifc branch. Think of the issue as the conversation and the readme as the work-in-progress.
+6. As you refine the idea, update the readme in your subdirectory of `brainy-ideas` on your own, specific branch. Think of the issue as the conversation and the readme as the work-in-progress. When you make changes (commits) to your readme, be sure to include brief, detailed descriptions of the changes made so that it is easy for others to follow the progression/evolution of your idea.
 
 **Brewing**
 
