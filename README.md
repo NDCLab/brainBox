@@ -19,7 +19,7 @@
 
 **Roasting**
 
-2. Create a new branch within the brainBox repo. Name it: `[project shortname]-[your name]`. For example: `choco-factory-charlie`. Add a new directory under the `brainy-ideas` directory. The project shortname that you use for the GitHub issue, the shortname that you use for the new branch, and the shortname that you use for the sub-directory should be identical.
+2. Create a new branch within the brainBox repo. Name it: `[project shortname]-[your name]`. For example: `choco-factory-charlie`. Add a new directory (subfolder) under the `brainy-ideas` directory. The project shortname that you use for the GitHub issue, the shortname that you use for the new branch, and the shortname that you use for the sub-directory should be identical.
 3. On your branch, within your project subfolder in the `brainy-ideas` directory, create a readme file. Use this file to build out and refine your idea.  This can start as a duplication of the content of your issue. 
 4. When you are ready, move the issue into the "Roasting" pipeline; open your idea up for group discussion by tagging the lab (@labwide) on the issue.
 5. Watch and respond to the questions that come in. Feel free to remind certain individuals to comment with their thoughts (by tagging them individually) if you feel they would have particularly valuable expertise to hone your idea.
