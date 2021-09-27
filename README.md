@@ -27,7 +27,7 @@
 
 **Brewing**
 
-7. As your idea takes full shape, move the issue into the "Brewing" pipeline on ZenHub. Craft a clear pitch for the PI's approval using the pull request template.
+7. As your idea takes full shape, move the issue into the "Brewing" pipeline on ZenHub.
 8. Create a pull request on GitHub by adjusting the details on the default pull request form. Assign the PR to the PI and tag any other lab members who have played a significant role in the development of the idea.
-9. It is not necessary to schedule a meeting with the PI to discuss the PR; however, if you think it will help, use [Calendly](https://calendly.com/gbuzzell/30-minute-meeting) to pre-set a meeting no sooner than two days after you intend to submit the pull request on GitHub (in order to allow adequate time for you PR to be reviewed).
+9. It is not necessary to schedule a meeting with the PI to discuss the PR; however, if you think it will help, use [Calendly](https://calendly.com/gbuzzell/30-minute-meeting) to pre-set a meeting no sooner than two days after you intend to submit the pull request on GitHub (in order to allow adequate time for your PR to be reviewed).
 10. Get excited to discuss how to make your idea a reality!
