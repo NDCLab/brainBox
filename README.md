@@ -16,11 +16,11 @@
 **Budding**
 
 1. Use one of the issue templates available in this repo (there is one for papers and one for code/tools/instruments) to open a new issue. Take your time in formalizing your thoughts. While you work on the issue, it will live in the "Budding" pipeline on the brainBox ZenHub workflow.
+2. Create a new branch within the brainBox repo. Name it: `[project shortname]-[your name]`. For example: `choco-factory-charlie`. Add a new directory (subfolder) under the `brainy-ideas` directory. The project shortname that you use for the GitHub issue, the shortname that you use for the new branch, and the shortname that you use for the sub-directory should be identical.
+3. On your branch, within your project subfolder in the `brainy-ideas` directory, create a readme file. Use this file to build out and refine your idea.  This can start as a duplication of the content of your issue. 
 
 **Roasting**
 
-2. Create a new branch within the brainBox repo. Name it: `[project shortname]-[your name]`. For example: `choco-factory-charlie`. Add a new directory (subfolder) under the `brainy-ideas` directory. The project shortname that you use for the GitHub issue, the shortname that you use for the new branch, and the shortname that you use for the sub-directory should be identical.
-3. On your branch, within your project subfolder in the `brainy-ideas` directory, create a readme file. Use this file to build out and refine your idea.  This can start as a duplication of the content of your issue. 
 4. When you are ready, open your idea up for group discussion by tagging the lab (@labwide) on the issue and moving it into the "Roasting" pipeline on ZenHub.
 5. Watch and respond to the questions that come in. Feel free to remind certain individuals to comment with their thoughts (by tagging them individually) if you feel they would have particularly valuable expertise to hone your idea.
 6. As you refine the idea, update the readme in your subdirectory of `brainy-ideas` on your own, specific branch. Think of the issue as the conversation and the readme as the work-in-progress. When you make changes (commits) to your readme, be sure to include brief, detailed descriptions of the changes made so that it is easy for others to follow the progression/evolution of your idea.
